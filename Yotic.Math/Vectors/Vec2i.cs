@@ -1,4 +1,6 @@
-﻿public struct Vec2i
+﻿namespace Yotic;
+
+public struct Vec2i
 {
     public Vec2i(int x, int y)
     {
